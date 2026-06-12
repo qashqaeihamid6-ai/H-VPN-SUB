@@ -1,101 +1,64 @@
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg1.ygkkk.dpdns.org:80?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%201
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg2.ygkkk.dpdns.org:8080?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%202
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg3.ygkkk.dpdns.org:8880?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%203
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg4.ygkkk.dpdns.org:2052?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%204
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg5.ygkkk.dpdns.org:2082?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%205
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg6.ygkkk.dpdns.org:2086?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%206
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg7.ygkkk.dpdns.org:2095?type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&encryption=none#Ch-hamid%207
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg8.ygkkk.dpdns.org:443?security=tls&sni=fancy-hill-06ff.qhhakan98.workers.dev&type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&fp=chrome#Ch-hamid%208
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg9.ygkkk.dpdns.org:8443?security=tls&sni=fancy-hill-06ff.qhhakan98.workers.dev&type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&fp=chrome#Ch-hamid%209
-vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg10.ygkkk.dpdns.org:2053?security=tls&sni=fancy-hill-06ff.qhhakan98.workers.dev&type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&fp=chrome#Ch-hamid%2010
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.92:2096?type=ws&path=%2FeyJqdW5rIjoiM2tQWmxqNDJOM1oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2044
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.142:2096?type=ws&path=%2FeyJqdW5rIjoiTDFDa0pkcUxXWFFMUEsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2045
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.145:2096?type=ws&path=%2FeyJqdW5rIjoibGdqNGVZeFl2TmlQdnFQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNjIuNjAuMjI5LjI1NSJdfQ%3D%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2035
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.95:2096?type=ws&path=%2FeyJqdW5rIjoiNnNLOUFSTm5xb3lnMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIyOS4yNTUiXX0%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2042
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.108.55:2096?type=ws&path=%2FeyJqdW5rIjoiMVJlZkhLTW1NIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNjIuNjAuMjI5LjI1NSJdfQ%3D%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2039
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.108.55:443?type=ws&path=%2FeyJqdW5rIjoiZ2lidG1CbGoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2024
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.142:8080?type=ws&path=%2FeyJqdW5rIjoibW9DWlVPZkd2VGdsR1YzMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIyOS4yNTUiXX0%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&encryption=none&fp=chrome&security=none#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2015
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.108.104:443?type=ws&path=%2FeyJqdW5rIjoiV1d5RWVqTUciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2026
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.97:443?type=ws&path=%2FeyJqdW5rIjoiZHlQemw3bW5pZyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIyOS4yNTUiXX0%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2028
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.92:8080?type=ws&path=%2FeyJqdW5rIjoiTmt0MVlPSE4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&encryption=none&fp=chrome&security=none#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2014
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.108.104:2096?type=ws&path=%2FeyJqdW5rIjoiWXlKUUZMWkJPc2xaRFFKIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNjIuNjAuMjI5LjI1NSJdfQ%3D%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2041
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@188.114.96.7:8080?type=ws&path=%2FeyJqdW5rIjoiZGF0a0ZXNm5wa3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI2Mi42MC4yMjkuMjU1Il19&host=broad-flower-7694.qashqaeihamid6.workers.dev&encryption=none&fp=chrome&security=none#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%203
+vless://65d2fcb2-2ead-4dec-b118-0d149e7884fc@104.17.89.34:443?type=ws&path=%2FeyJqdW5rIjoiM2lMc3hYYUhyayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjYyLjYwLjIyOS4yNTUiXX0%3D&host=broad-flower-7694.qashqaeihamid6.workers.dev&security=tls&fp=chrome&sni=broad-flower-7694.qashqaeihamid6.workers.dev&alpn=http/1.1#universe%F0%9F%AA%90%F0%9F%97%BF%F0%9F%94%AE%2022
 vless://d65d9f3e-dee0-4291-854b-defe54d24674@yg12.ygkkk.dpdns.org:2087?security=tls&sni=fancy-hill-06ff.qhhakan98.workers.dev&type=ws&path=/&host=fancy-hill-06ff.qhhakan98.workers.dev&fp=chrome#Ch-hamid%2012
-usa🇺🇸🪐 1
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.107.164:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 1
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@snowy-dust-821c.tirex98.workers.dev:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoidEZ2UkNVdk1xYXJmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%201
 
-usa🇺🇸🪐 2
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.18.154.227:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 2
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@www.speedtest.net:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoieGVRRWNPeHlueVpQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%202
 
-usa🇺🇸🪐 3
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.107.72:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 3
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.21.83.99:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiWkJlRDhxYzhWR3VCOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%203
 
-usa🇺🇸🪐 4
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.18.154.252:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 4
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@172.67.221.82:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiOUFnaHQyUlAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xODYuMjE5LjgyIl19&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%204
 
-usa🇺🇸🪐 5
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.107.97:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 5
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@91.209.253.214:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiUjN0UFd4cE50IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%205
 
-usa🇺🇸🪐 6
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.122.208:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 6
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@198.177.57.164:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiUkJnY3gzY0QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xODYuMjE5LjgyIl19&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%206
 
-usa🇺🇸🪐 7
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.18.155.18:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 7
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@31.185.108.168:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoibHdDTVMyV3UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xODYuMjE5LjgyIl19&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%207
 
-usa🇺🇸🪐 8
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.122.185:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 8
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@188.114.98.100:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiQmo1OXhFSHpJd3VuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%208
 
-usa🇺🇸🪐 9
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.122.235:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 9
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@156.243.246.219:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoielhPTVZRdmZtOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%209
 
-usa🇺🇸🪐 10
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.107.154:443?encryption=none&security=tls&sni=snowY-dUST-821c.tirEX98.workErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiY05SeXY0emM1VndlV3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 10
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@37.153.171.182:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoidWhPdlZmVmY4bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2010
 
-usa🇺🇸🪐 11
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.18.152.12:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 11
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@213.182.199.70:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiM0kyUXZjRHZCRTBtZGo3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2011
 
-usa🇺🇸🪐 12
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@103.31.4.206:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 12
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@91.206.71.111:80?encryption=none&type=ws&path=%2FeyJqdW5rIjoiUERJWjF4UmVZSDlGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2012
 
-usa🇺🇸🪐 13
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.21.217.140:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 13
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@snowy-dust-821c.tirex98.workers.dev:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoiUVJUVzk3RjFUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2013
 
-usa🇺🇸🪐 14
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@188.114.98.100:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 14
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@www.speedtest.net:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoib1c5TzNEcEtWemxRSm81dCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2014
 
-usa🇺🇸🪐 15
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@198.41.194.234:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 15
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.21.83.99:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoiYzNCYm9tc1ZEbk9yIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2015
 
-usa🇺🇸🪐 16
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@141.101.120.253:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 16
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@172.67.221.82:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoiWXJtaTJXWU9RcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2016
 
-usa🇺🇸🪐 17
-vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@141.101.90.107:2096?encryption=none&security=tls&sni=rEd-lIMIt-594A.amirkf2000.WOrKeRs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=red-limit-594a.amirkf2000.workers.dev&path=%2FeyJqdW5rIjoidWVwaDM5OEJEeE9TbzMzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#usa🇺🇸🪐 17
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@91.209.253.214:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoiTW5oUDIwMkZ3ViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjE4Ni4yMTkuODIiXX0%3D&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2017
 
-usa🇺🇸🪐 18
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.25.7.245:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 18
-
-usa🇺🇸🪐 19
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.75.11:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 19
-
-usa🇺🇸🪐 20
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.16.100.22:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 20
-
-usa🇺🇸🪐 21
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.17.14.38:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 21
-
-usa🇺🇸🪐 22
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.24.188.58:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 22
-
-usa🇺🇸🪐 23
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@173.245.59.164:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 23
-
-usa🇺🇸🪐 24
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.16.73.9:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 24
-
-usa🇺🇸🪐 25
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@141.101.114.197:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 25
-
-usa🇺🇸🪐 26
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@103.31.4.206:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 26
-
-usa🇺🇸🪐 27
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.25.213.158:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 27
-
-usa🇺🇸🪐 28
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.16.128.148:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 28
-
-usa🇺🇸🪐 29
-vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@104.18.152.54:2096?encryption=none&security=tls&sni=SnowY-dusT-821C.tirEx98.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=snowy-dust-821c.tirex98.workers.dev&path=%2FeyJqdW5rIjoiWnE3ekY3Y2N3djQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D%3Fed%3D2560#usa🇺🇸🪐 29
-vless://987079e7-d94a-49b0-a78a-0dcc592c5a0f@172.67.160.146:2087?type=ws&path=/eyJqdW5rIjoi eGYwb1FNMnFVUmprIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjEzNy4yNDguMjI3Il19&host=hex98.hamidogh76.workers.dev&security=tls&sni=HEx98.hAMiDOgH76.WORkeRs.dEV&fp=chrome&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B115%2520-%2520IPv4%25202087
-
+vless://3e4d62a0-be6b-4938-b5d7-8d273e590702@198.177.57.164:8080?encryption=none&type=ws&path=%2FeyJqdW5rIjoiRkgyRHJpQmkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xODYuMjE5LjgyIl19&host=snowy-dust-821c.tirex98.workers.dev#🛸%20alien%20👽%2018
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.17.107.72:8443?encryption=none&security=tls&sni=reD-LImit-594A.aMirkf2000.woRKErs.Dev&type=ws&path=%2FeyJqdW5rIjoiUUhCQjNKVElOTnJFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjk3Ljg4LjEzMyJdfQ%3D%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@www.speedtest.net:2087?encryption=none&security=tls&sni=reD-LImit-594a.amirKf2000.WoRKERs.deV&type=ws&path=%2FeyJqdW5rIjoiZG1ReFd1Q0FUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjk3Ljg4LjEzMyJdfQ%3D%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@172.67.160.146:8443?encryption=none&security=tls&sni=rED-limit-594a.aMiRKF2000.WorKErs.deV&type=ws&path=%2FeyJqdW5rIjoiSFlIV04xbzZyYmpjYWp6bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwMy45Ny44OC4xMzMiXX0%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.21.87.115:8443?encryption=none&security=tls&sni=ReD-LiMIt-594A.AMIrkf2000.workeRS.DEV&type=ws&path=%2FeyJqdW5rIjoiSlJVMjhIZVU2VlA0QzIxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjk3Ljg4LjEzMyJdfQ%3D%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@172.67.160.146:80?encryption=none&security=none&type=ws&path=%2FeyJqdW5rIjoiNFMxekRWeW5yeVdHMGN5MyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwMy45Ny44OC4xMzMiXX0%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@172.67.143.6:80?encryption=none&security=none&type=ws&path=%2FeyJqdW5rIjoiY3BDWWdvd1NJUWZMNFFQdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwMy45Ny44OC4xMzMiXX0%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@172.67.160.146:443?encryption=none&security=tls&sni=Red-lImIT-594a.AmirkF2000.workErS.DEV&type=ws&path=%2FeyJqdW5rIjoiVmtaU1hTSE0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDMuOTcuODguMTMzIl19&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.21.14.210:2087?encryption=none&security=tls&sni=REd-LIMIt-594a.aMirkF2000.WOrKeRs.DEv&type=ws&path=%2FeyJqdW5rIjoia3Z2MzMwaGxyUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwMy45Ny44OC4xMzMiXX0%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@172.67.143.6:2087?encryption=none&security=tls&sni=REd-LiMiT-594A.amirkF2000.WOrKerS.dEv&type=ws&path=%2FeyJqdW5rIjoic3l0bW5BUGdoZ0F1bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwMy45Ny44OC4xMzMiXX0%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@188.114.98.100:443?encryption=none&security=tls&sni=REd-liMIt-594A.amiRKF2000.woRKErS.dev&type=ws&path=%2FeyJqdW5rIjoiRnhBbTFDcUx3czEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDMuOTcuODguMTMzIl19&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@188.114.98.100:2087?encryption=none&security=tls&sni=red-Limit-594a.AmiRKF2000.WoRkerS.DEV&type=ws&path=%2FeyJqdW5rIjoiZmNwUHp1bjdXYmpIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjk3Ljg4LjEzMyJdfQ%3D%3D&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@red-limit-594a.amirkf2000.workers.dev:2087?encryption=none&security=tls&sni=red-lIMit-594a.amiRKF2000.wOrkers.dev&type=ws&path=%2FeyJqdW5rIjoiS0RCdFNQdlRCTUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDMuOTcuODguMTMzIl19&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
+vless://f244c40f-08dc-4049-8a3e-6e05ca11676a@104.21.87.115:80?encryption=none&security=none&type=ws&path=%2FeyJqdW5rIjoid0p3QWFtajEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDMuOTcuODguMTMzIl19&host=red-limit-594a.amirkf2000.workers.dev#%F0%9F%97%BF%F0%9F%8C%97
 vless://987079e7-d94a-49b0-a78a-0dcc592c5a0f@172.67.160.146:443?type=ws&path=/eyJqdW5rIjoiQ01hZDM3SWI3R0NtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjEzNy4yNDguMjI3Il19&host=hex98.hamidogh76.workers.dev&security=tls&sni=hex98.hAMIDOGH76.wORKeRS.Dev&fp=chrome&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B17%2520-%2520IPv4%2520443
 vless://987079e7-d94a-49b0-a78a-0dcc592c5a0f@172.67.160.146:8443?type=ws&path=/eyJqdW5rIjoiZTdHczRtQ3JqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTAzLjEzNy4yNDguMjI3Il19&host=hex98.hamidogh76.workers.dev&security=tls&sni=HEx98.hamIDOgH76.woRkers.deV&fp=chrome&alpn=http/1.1&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B111%2520-%2520IPv4%25208443
